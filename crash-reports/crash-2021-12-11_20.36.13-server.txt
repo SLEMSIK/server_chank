@@ -1,0 +1,67 @@
+---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 11.12.21 20:36
+Description: Exception in server tick loop
+
+Missing Mods:
+	unknown : need any: have missing
+
+Missing Mods:
+	unknown : need [0.2.5,): have missing
+
+net.minecraftforge.fml.common.MultipleModsErrored
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:300)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_301, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 532209280 bytes (507 MB) / 646971392 bytes (617 MB) up to 1418723328 bytes (1353 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2855 23 mods loaded, 23 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                  | Version           | Source                                    | Signature                                |
+	|:----- |:------------------- |:----------------- |:----------------------------------------- |:---------------------------------------- |
+	| L     | minecraft           | 1.12.2            | minecraft.jar                             | None                                     |
+	| L     | mcp                 | 9.42              | minecraft.jar                             | None                                     |
+	| L     | FML                 | 8.0.99.99         | forge-1.12.2-14.23.5.2855.jar             | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | forge               | 14.23.5.2855      | forge-1.12.2-14.23.5.2855.jar             | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | backpack            | 3.0.2             | backpack_3.0.2_1.12.2.jar                 | None                                     |
+	| L     | buildcraftcompat    | 7.99.24.8         | buildcraft_all_7.99.24.8_1.12.2.jar       | None                                     |
+	| L     | buildcraftbuilders  | 7.99.24.8         | buildcraft_all_7.99.24.8_1.12.2.jar       | None                                     |
+	| L     | buildcraftcore      | 7.99.24.8         | buildcraft_all_7.99.24.8_1.12.2.jar       | None                                     |
+	| L     | buildcraftenergy    | 7.99.24.8         | buildcraft_all_7.99.24.8_1.12.2.jar       | None                                     |
+	| L     | buildcraftfactory   | 7.99.24.8         | buildcraft_all_7.99.24.8_1.12.2.jar       | None                                     |
+	| L     | buildcraftlib       | 7.99.24.8         | buildcraft_all_7.99.24.8_1.12.2.jar       | None                                     |
+	| L     | buildcraftrobotics  | 7.99.24.8         | buildcraft_all_7.99.24.8_1.12.2.jar       | None                                     |
+	| L     | buildcraftsilicon   | 7.99.24.8         | buildcraft_all_7.99.24.8_1.12.2.jar       | None                                     |
+	| L     | buildcrafttransport | 7.99.24.8         | buildcraft_all_7.99.24.8_1.12.2.jar       | None                                     |
+	| L     | falling_tree        | 2.4.0             | FallingTree_1.12.2_2.4.0.jar              | None                                     |
+	| L     | voxelmap            | 1.9.25            | forgemod_voxelmap-1.9.28_for_1.12.2.jar   | None                                     |
+	| L     | galacticraftplanets | 4.0.2.281         | Galacticraft-Planets-1.12.2-4.0.2.281.jar | None                                     |
+	| L     | galacticraftcore    | 4.0.2.281         | GalacticraftCore-1.12.2-4.0.2.281.jar     | None                                     |
+	| L     | ic2                 | 2.8.221-ex112     | industrialcraft_2_2.8.221_ex112.jar       | None                                     |
+	| L     | ironchest           | 1.12.2-7.0.67.844 | ironchest_1.12.2_7.0.72.847.jar           | None                                     |
+	| L     | jei                 | 4.16.1.301        | jei_1.12.2_4.16.1.301.jar                 | None                                     |
+	| L     | vehicle             | 0.44.1            | vehicle-mod-0.44.1-1.12.2.jar             | None                                     |
+	| L     | worldedit           | 6.1.10            | worldedit_forge_mc1.12.2_6.1.10_dist.jar  | None                                     |
+
+	Loaded coremods (and transformers): 
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
