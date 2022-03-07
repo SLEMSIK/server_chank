@@ -1,0 +1,192 @@
+[18:17:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:17:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:17:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:17:25] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
+[18:17:25] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_51
+[18:17:25] [main/INFO] [FML]: Searching C:\Users\slemsik\Desktop\water\CLEN2\.\mods for mods
+[18:17:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:17:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:17:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:17:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:17:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:17:27] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:17:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:17:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:17:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:17:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:17:27] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:17:31] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
+[18:17:31] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:17:31] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:17:31] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[18:17:32] [Server thread/INFO] [FML]: Searching C:\Users\slemsik\Desktop\water\CLEN2\.\mods for mods
+[18:17:32] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[18:17:32] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:17:32] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[18:17:33] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, worldedit] at CLIENT
+[18:17:33] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, worldedit] at SERVER
+[18:17:33] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:17:33] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[18:17:33] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:17:33] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:17:33] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:17:33] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:17:33] [Server thread/INFO] [FML]: Applying holder lookups
+[18:17:33] [Server thread/INFO] [FML]: Holder lookups applied
+[18:17:33] [Server thread/INFO] [FML]: Applying holder lookups
+[18:17:33] [Server thread/INFO] [FML]: Holder lookups applied
+[18:17:33] [Server thread/INFO] [FML]: Applying holder lookups
+[18:17:33] [Server thread/INFO] [FML]: Holder lookups applied
+[18:17:33] [Server thread/INFO] [FML]: Applying holder lookups
+[18:17:33] [Server thread/INFO] [FML]: Holder lookups applied
+[18:17:33] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:17:33] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[18:17:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[18:17:34] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[18:17:34] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:17:34] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[18:17:34] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:17:34] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:17:34] [Server thread/INFO] [FML]: Applying holder lookups
+[18:17:34] [Server thread/INFO] [FML]: Holder lookups applied
+[18:17:34] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:17:34] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:17:35] [Server thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.10) is loaded
+[18:17:35] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[18:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[18:17:35] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[18:17:36] [Server thread/INFO] [FML]: Applying holder lookups
+[18:17:36] [Server thread/INFO] [FML]: Holder lookups applied
+[18:17:36] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@58207893)
+[18:17:37] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[18:17:37] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@58207893)
+[18:17:37] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@58207893)
+[18:17:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[18:17:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 61%
+[18:17:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3,326s)! For help, type "help" or "?"
+[18:17:38] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:17:38] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:17:42] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[18:17:42] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2855,worldedit@6.1.10,mcp@9.42
+[18:17:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:17:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SLEMSIK[/192.168.1.1:59538] logged in with entity id 17 at (620.02581656324, 116.31547471188544, 1052.289005105064)
+[18:17:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SLEMSIK joined the game
+[18:20:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SLEMSIK has made the advancement [Hot Stuff]
+[18:22:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Set the time to 1000]
+[18:22:52] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@615a131[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:57980): You are banned from this server!
+Reason: Banned by an operator.
+[18:22:52] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@615a131[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:57980) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[18:26:09] [Netty Server IO #7/INFO] [FML]: Client protocol version 2
+[18:26:09] [Netty Server IO #7/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.5.2
+[18:26:09] [Netty Server IO #7/INFO] [FML]: Attempting connection with missing mods [worldedit] at CLIENT
+[18:26:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:26:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Maximka7777[/109.126.248.19:56458] logged in with entity id 7529 at (-109.5, 1.0, 559.5)
+[18:26:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Maximka7777 joined the game
+[18:26:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Banned player Maximka7777]
+[18:26:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Maximka7777 lost connection: You are banned from this server.
+[18:26:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Maximka7777 left the game
+[18:26:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Turned on the whitelist]
+[18:26:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Unbanned player Maximka7777]
+[18:26:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Unbanned player ShcolarGG]
+[18:28:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Block placed]
+[18:29:09] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@1bc7ad0e[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56542): You are not white-listed on this server!
+[18:29:09] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@1bc7ad0e[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56542) lost connection: You are not white-listed on this server!
+[18:29:14] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@690e023b[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56552): You are not white-listed on this server!
+[18:29:14] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@690e023b[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56552) lost connection: You are not white-listed on this server!
+[18:30:02] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@22c6f31b[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56554): You are not white-listed on this server!
+[18:30:02] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@22c6f31b[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56554) lost connection: You are not white-listed on this server!
+[18:30:04] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@6246e36b[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56555): You are not white-listed on this server!
+[18:30:04] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@6246e36b[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56555) lost connection: You are not white-listed on this server!
+[18:30:07] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@3aef87ae[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56556): You are not white-listed on this server!
+[18:30:07] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@3aef87ae[id=0b85d8bc-9914-3846-bda9-84495a028eac,name=Pytina_B_B,properties={},legacy=false] (/109.126.248.19:56556) lost connection: You are not white-listed on this server!
+[18:31:26] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@74b4193d[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56655): You are not white-listed on this server!
+[18:31:26] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@74b4193d[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56655) lost connection: You are not white-listed on this server!
+[18:31:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Set the world spawn point to (378, 184, 1142)]
+[18:31:29] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@35b3f072[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56665): You are not white-listed on this server!
+[18:31:30] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@35b3f072[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56665) lost connection: You are not white-listed on this server!
+[18:31:33] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@2e88d7ea[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56676): You are not white-listed on this server!
+[18:31:33] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@2e88d7ea[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56676) lost connection: You are not white-listed on this server!
+[18:31:36] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@7deb3ba[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56686): You are not white-listed on this server!
+[18:31:36] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@7deb3ba[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56686) lost connection: You are not white-listed on this server!
+[18:31:39] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@368309d1[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56696): You are not white-listed on this server!
+[18:31:39] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@368309d1[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56696) lost connection: You are not white-listed on this server!
+[18:31:42] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@6fedf891[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56697): You are not white-listed on this server!
+[18:31:42] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@6fedf891[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56697) lost connection: You are not white-listed on this server!
+[18:31:47] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@7cd19c82[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56707): You are not white-listed on this server!
+[18:31:47] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@7cd19c82[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56707) lost connection: You are not white-listed on this server!
+[18:32:41] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@2fab5f68[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56834): You are not white-listed on this server!
+[18:32:41] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@2fab5f68[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:56834) lost connection: You are not white-listed on this server!
+[18:32:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Saved the world]
+[18:32:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Set the time to 1000]
+[18:34:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Added slemsik23 to the whitelist]
+[18:35:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SLEMSIK lost connection: You logged in from another location
+[18:35:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SLEMSIK left the game
+[18:35:46] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[18:35:46] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2855,worldedit@6.1.10,mcp@9.42
+[18:35:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:35:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SLEMSIK[/192.168.1.1:57043] logged in with entity id 18319 at (347.06049339551635, 136.5334899400021, 1108.8822020419723)
+[18:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SLEMSIK joined the game
+[18:35:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SLEMSIK lost connection: Disconnected
+[18:35:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SLEMSIK left the game
+[18:36:07] [Netty Server IO #5/INFO] [FML]: Client protocol version 2
+[18:36:07] [Netty Server IO #5/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2855,worldedit@6.1.10,mcp@9.42
+[18:36:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:36:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SLEMSIK[/192.168.1.1:57070] logged in with entity id 18354 at (353.49273112197574, 133.5278490857296, 1106.8435838166304)
+[18:36:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SLEMSIK joined the game
+[18:36:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Added slemsik to the whitelist]
+[18:36:31] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@488f7590[id=b1996dc3-e309-3c0f-80ef-71582a47cdd2,name=Cam,properties={},legacy=false] (/192.168.1.1:57124): You are not white-listed on this server!
+[18:36:31] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@488f7590[id=b1996dc3-e309-3c0f-80ef-71582a47cdd2,name=Cam,properties={},legacy=false] (/192.168.1.1:57124) lost connection: You are not white-listed on this server!
+[18:36:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Added Cam to the whitelist]
+[18:36:40] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@1b036317[id=b1996dc3-e309-3c0f-80ef-71582a47cdd2,name=Cam,properties={},legacy=false] (/192.168.1.1:57131): You are not white-listed on this server!
+[18:36:40] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@1b036317[id=b1996dc3-e309-3c0f-80ef-71582a47cdd2,name=Cam,properties={},legacy=false] (/192.168.1.1:57131) lost connection: You are not white-listed on this server!
+[18:37:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Turned off the whitelist]
+[18:37:13] [Netty Server IO #8/INFO] [FML]: Client protocol version 2
+[18:37:13] [Netty Server IO #8/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2855,worldedit@6.1.10,mcp@9.42
+[18:37:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:37:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Cam[/192.168.1.1:57156] logged in with entity id 18581 at (378.5, 1.0, 1146.5)
+[18:37:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cam joined the game
+[18:37:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cam lost connection: Disconnected
+[18:37:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cam left the game
+[18:37:25] [Netty Server IO #11/INFO] [FML]: Client protocol version 2
+[18:37:25] [Netty Server IO #11/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42,journeymap@1.12.2-5.5.2
+[18:37:25] [Netty Server IO #11/INFO] [FML]: Attempting connection with missing mods [worldedit] at CLIENT
+[18:37:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:37:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ShcolarGG[/109.126.248.19:57039] logged in with entity id 18636 at (-124.37531149645588, 44.040403087242154, 536.7500920307638)
+[18:37:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShcolarGG joined the game
+[18:37:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Banned player ShcolarGG]
+[18:37:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ShcolarGG lost connection: You are banned from this server.
+[18:37:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShcolarGG left the game
+[18:37:32] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@385b01db[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:57041): You are banned from this server!
+Reason: Banned by an operator.
+[18:37:32] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@385b01db[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:57041) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[18:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Turned on the whitelist]
+[18:37:37] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@7edda9b7[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:57060): You are banned from this server!
+Reason: Banned by an operator.
+[18:37:37] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@7edda9b7[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:57060) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[18:37:39] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@40f6413c[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:57070): You are banned from this server!
+Reason: Banned by an operator.
+[18:37:39] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@40f6413c[id=0071e934-ccb6-338d-a799-36bd8195e79b,name=ShcolarGG,properties={},legacy=false] (/109.126.248.19:57070) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[18:37:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Unbanned player ShcolarGG]
+[18:38:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Saved the world]
+[18:38:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Removed slemsik23 from the whitelist]
+[18:38:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Removed cam from the whitelist]
+[18:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Removed slemsik from the whitelist]
+[18:38:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SLEMSIK: Saved the world]
+[18:39:33] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: Disconnecting com.mojang.authlib.GameProfile@1e78120[id=f3e24a4f-5513-3504-9e34-d2a66b6045d1,name=Shcol?rGG,properties={},legacy=false] (/109.126.248.19:57260): You are not white-listed on this server!
+[18:39:33] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@1e78120[id=f3e24a4f-5513-3504-9e34-d2a66b6045d1,name=Shcol?rGG,properties={},legacy=false] (/109.126.248.19:57260) lost connection: You are not white-listed on this server!
+[18:40:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[18:40:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:40:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:40:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:40:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[18:40:25] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:40:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:40:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
